@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **dalya.lami2002@gmail.com**
 
-- 📄 Know about my experiences through [My Resume] (https://docs.google.com/document/d/1V1pMiYq1IX_NZmrV6X_S0ZAwAnv5EBiM/edit?usp=sharing&ouid=115279504951564950490&rtpof=true&sd=true) 
-
+- 📄 Know about my experiences through  [here](myLib/README.md)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dalya lami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalya lami" height="30" width="40" /></a>
