@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dalya.lami2002@gmail.com**
 
-- 📄 Know about my experiences through  [here](myLib/README.md)
+- 📄 Know about my experiences through  [My Resume](myLib/README.md)
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
