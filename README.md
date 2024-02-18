@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dalya.lami2002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1V1pMiYq1IX_NZmrV6X_S0ZAwAnv5EBiM/edit?usp=sharing&ouid=115279504951564950490&rtpof=true&sd=true](https://docs.google.com/document/d/1V1pMiYq1IX_NZmrV6X_S0ZAwAnv5EBiM/edit?usp=sharing&ouid=115279504951564950490&rtpof=true&sd=true)
+- 📄 Know about my experiences through [My Resume] (https://docs.google.com/document/d/1V1pMiYq1IX_NZmrV6X_S0ZAwAnv5EBiM/edit?usp=sharing&ouid=115279504951564950490&rtpof=true&sd=true) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
