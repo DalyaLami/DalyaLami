@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **My spirit animal is a cat because it totally gets my mood swings**
 
-[![DalyaLami's GitHub | Stats](https://stats-dev.quine.sh/DalyaLami/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=DalyaLami) 
+[![DalyaLami's GitHub | Stats](https://stats-dev.quine.sh/DalyaLami/github?theme=light)](https://dev.quine.sh?utm_source=widgets&utm_campaign=DalyaLami) 
 
   
 <h3 align="left">Connect with me:</h3>
