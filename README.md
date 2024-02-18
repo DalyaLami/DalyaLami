@@ -9,9 +9,7 @@
 
 - 📄 Know about my experiences through  [My Resume](https://docs.google.com/document/d/1V1pMiYq1IX_NZmrV6X_S0ZAwAnv5EBiM/edit?usp=sharing&ouid=115279504951564950490&rtpof=true&sd=true)
 
-[![DalyaLami's GitHub | Stats](https://stats-dev.quine.sh/DalyaLami/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=DalyaLami)
-
-[![DalyaLami's GitHub | Languages Over Time](https://stats-dev.quine.sh/DalyaLami/languages-over-time?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=DalyaLami)
+[![DalyaLami's GitHub | Stats](https://stats-dev.quine.sh/DalyaLami/github?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=DalyaLami) [![DalyaLami's GitHub | Languages Over Time](https://stats-dev.quine.sh/DalyaLami/languages-over-time?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=DalyaLami)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
