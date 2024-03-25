@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dalya Lami</h1>
 <h3 align="center">A passionate data analyst from Canada</h3>
 
+I've recently graduated from the UFT Bootcamp for Data Analytics. Passionate about harnessing the power of data to derive meaningful insights and drive informed decision-making, I've embarked on a journey to explore the vast landscape of data analytics.While I'm just beginning my professional journey, I've already gained hands-on experience working on various data projects during my time at the bootcamp. From cleaning and preprocessing data to performing exploratory data analysis and creating insightful visualizations, I'm eager to apply my skills in real-world scenarios.
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalyalami" alt="dalyalami" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DalyaLami](https://github.com/DalyaLami)
